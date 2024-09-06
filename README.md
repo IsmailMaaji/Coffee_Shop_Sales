@@ -105,10 +105,11 @@ ORDER BY
 #### Additional SQL queries covering aspects like store sales performance, daily sales trends, and sales comparison by weekdays and weekends can be found in the MY SQL Queries.docx file.
 
 ## Visualizations
+
 Several visualizations have been created to represent the following insights:
 
 Monthly Sales Trend: Track the rise or fall of sales over different months.
 Top-Selling Products: Identify the best-performing products based on sales.
 Store Performance: Analyze sales performance across different store locations.
-
+![image alt]([image_url](https://github.com/IsmailMaaji/Coffee_Shop_Sales/blob/34e4f9d3551dfc2a5ec262d77a971ce3dfa9b8c1/coffee%20shop.PNG))
 
